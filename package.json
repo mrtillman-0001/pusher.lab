@@ -1,0 +1,24 @@
+{
+  "name": "pusher.lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtillman-0001/pusher.lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrtillman-0001/pusher.lab/issues"
+  },
+  "homepage": "https://github.com/mrtillman-0001/pusher.lab#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pusher": "^5.0.0"
+  }
+}
